@@ -24,6 +24,10 @@ To view the dashboard, follow these steps:
 2. Open the file in Power BI Desktop.
 3. Connect to your data source if needed, or use the embedded data.
 
+## Dataset
+The dataset used for this project is provided and attached to this repository. It contains the sales data necessary to recreate and explore the insights presented in the dashboard.
+   
+
 ## Usage
 This dashboard is intended for sales and marketing teams to gain insights into product performance and customer preferences. It can be customized to fit specific business needs and data sources.
 
